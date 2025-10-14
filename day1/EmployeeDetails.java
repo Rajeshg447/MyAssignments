@@ -14,15 +14,18 @@ public class EmployeeDetails {
 			int 	pinCode =56001;
 			int	luckyNumber = 7;
 System.out.println("Name is "+name);
+System.out.println("Age is "+age);		
 System.out.println("Salary is "+salary);
 System.out.println("Gender is "+gender);
 System.out.println("accept terms is "+acceptTerms);
 System.out.println("rating is "+rating);
 System.out.println("mobileNumber is "+mobileNumber);
 System.out.println("pinCode is "+pinCode);
+		System.out.println("pinCode is "+luckyNumber);
 		
 		
 
 	}
 
 }
+
